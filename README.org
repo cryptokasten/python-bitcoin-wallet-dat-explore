@@ -5,6 +5,18 @@
 
 ** System environment
 
+- Debian 10.5
+
+- libdb-dev 5.3.1
+
+- Python 3.7.0
+
+- Bitcoin core wallet version 159900.
+
+Python modules:
+
+- bsddb3-6.2.7
+
 ** Install bsddb3
 
 Install Berkeley DB libraries.
